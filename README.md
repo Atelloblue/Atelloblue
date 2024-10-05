@@ -36,6 +36,6 @@ I'm really good at coding, except for **JavaScript**!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=atelloblue&layout=compact)
 
-### Featured Project:
+### Featured Projects:
 
 [![Windows 12 Concept](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=atelloblue&repo=Windows-12-CONCEPT)](https://github.com/Atelloblue/Windows-12-CONCEPT)
