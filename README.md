@@ -15,3 +15,10 @@
 😄 Pronouns: He/Him (I Am Him)
 
 ⚡ Fun fact: I'm really good at coding except for JS
+
+![Atelloblue's GitHub stats](https://github-readme-stats.vercel.app/api?rank_icon=github&username=atelloblue&theme=dark&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=atelloblue&repo=Windows-12-CONCEPT
+)](https://github.com/Atelloblue/Windows-12-CONCEPT)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=atelloblue&layout=compact)
