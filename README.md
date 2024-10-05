@@ -1,24 +1,39 @@
-## Hi there 👋
+## Hi there! 👋
 
-💻 I’m currently working on Windows 10 in a browser, a Google remake and a Windows 10 Blue Screen Of Death (BSOD)
+💻 **Current Projects:**  
+I'm working on a browser-based version of **Windows 10**, a **Google remake**, and a simulation of the **Windows 10 Blue Screen Of Death (BSOD)**.
 
-🌱 I’m currently learning JS
+🌱 **Learning Journey:**  
+Currently diving into **JavaScript** to enhance my coding skills.
 
-🤝 I’m looking to collaborate on nothing for now
+🤝 **Collaboration:**  
+I'm not looking to collaborate on any projects at the moment.
 
-🤔 I’m looking for help with JS
+🤔 **Seeking Help:**  
+I would appreciate any assistance with **JavaScript**.
 
-💬 Ask me about anything
+💬 **Feel Free to Ask:**  
+I'm open to questions about anything!
 
-📫 How to reach me: brynleyportillo1@gmail.com
+📫 **Contact Me:**  
+You can reach me at [brynleyportillo1@gmail.com](mailto:brynleyportillo1@gmail.com).
 
-😄 Pronouns: He/Him (I Am Him)
+😄 **Pronouns:**  
+He/Him (I am Him).
 
-⚡ Fun fact: I'm really good at coding except for JS
+⚡ **Fun Fact:**  
+I'm really good at coding, except for JavaScript!
 
-![Atelloblue's GitHub stats](https://github-readme-stats.vercel.app/api?rank_icon=github&username=atelloblue&theme=dark&show_icons=true)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=atelloblue&repo=Windows-12-CONCEPT
-)](https://github.com/Atelloblue/Windows-12-CONCEPT)
+### My GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=atelloblue&layout=compact)
+![Atelloblue's GitHub Stats](https://github-readme-stats.vercel.app/api?rank_icon=github&username=atelloblue&theme=dark&show_icons=true)
+
+### Featured Projects:
+
+[![Windows 12 Concept](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=atelloblue&repo=Windows-12-CONCEPT)](https://github.com/Atelloblue/Windows-12-CONCEPT)
+
+### Top Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=atelloblue&layout=compact)
