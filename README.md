@@ -1,9 +1,9 @@
 ## Hi there! 👋
 
 💻 **Current Projects:**  
-- Developing a **browser-based version of Windows 10**  
-- Creating a **Google remake**  
-- Simulating the **Windows 10 Blue Screen Of Death (BSOD)**  
+- Developing a **ROM Archive**  
+- Creating a **PLACEHOLDER**  
+- Simulating the **PLACEHOLDER**  
 
 🌱 **Learning Journey:**  
 Currently enhancing my coding skills in **JavaScript**.
