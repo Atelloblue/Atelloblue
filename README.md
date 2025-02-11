@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 💻 **Current Projects:**  
-- Developing a **ROM Archive**  
+- Developing a **AM/FM Radio Player Website**  
 - Creating a **PLACEHOLDER**  
 - Simulating the **PLACEHOLDER**  
 
@@ -12,7 +12,7 @@ Currently enhancing my coding skills in **JavaScript**.
 Not looking to collaborate on any projects at the moment.
 
 🤔 **Seeking Help:**  
-I would appreciate any assistance with **JavaScript**.
+Not Seeking Help Right Now.
 
 💬 **Feel Free to Ask:**  
 I'm open to questions about anything!
@@ -21,10 +21,10 @@ I'm open to questions about anything!
 You can reach me at [brynleyportillo1@gmail.com](mailto:brynleyportillo1@gmail.com).
 
 😄 **Pronouns:**  
-He/Him (I am Him).
+He/Him.
 
 ⚡ **Fun Fact:**  
-I'm really good at coding, except for **JavaScript**!
+I'm really pretty at coding!
 
 ---
 
@@ -38,4 +38,4 @@ I'm really good at coding, except for **JavaScript**!
 
 ### Featured Projects:
 
-[![Windows 12 Concept](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=atelloblue&repo=Windows-12-CONCEPT)](https://github.com/Atelloblue/Windows-12-CONCEPT)
+[![Windows 12 Concept](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=atelloblue&repo=AM-FM-Radio)](https://github.com/Atelloblue/Windows-12-CONCEPT)
