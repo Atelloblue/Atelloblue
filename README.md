@@ -38,4 +38,4 @@ I'm really pretty at coding!
 
 ### Featured Projects:
 
-[![Windows 12 Concept](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=atelloblue&repo=AM-FM-Radio)](https://github.com/Atelloblue/Windows-12-CONCEPT)
+[![Windows 12 Concept](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=atelloblue&repo=AM-FM-Radio)](https://github.com/Atelloblue/AM-FM-Radio)
