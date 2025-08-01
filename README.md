@@ -1,18 +1,16 @@
 ## Hi there! 👋
 
 💻 **Current Projects:**  
-- Developing a **AM/FM Radio Player Website**  
-- Creating a **PLACEHOLDER**  
-- Simulating the **PLACEHOLDER**  
+- Developing a **Minecraft Server Scanner**  
 
 🌱 **Learning Journey:**  
-Currently enhancing my coding skills in **JavaScript**.
+Currently learning **JavaScript**.
 
 🤝 **Collaboration:**  
-Not looking to collaborate on any projects at the moment.
+Looking to collaborate so I can improve my Minecraft server scanner.
 
 🤔 **Seeking Help:**  
-Not Seeking Help Right Now.
+Seeking Help for my Minecraft server scanner.
 
 💬 **Feel Free to Ask:**  
 I'm open to questions about anything!
