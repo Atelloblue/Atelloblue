@@ -1,16 +1,16 @@
 ## Hi there! 👋
 
 💻 **Current Projects:**  
-- Developing a **Minecraft Server Scanner**  
+- Developing a **VNC Setup Script**  
 
 🌱 **Learning Journey:**  
 Currently learning **JavaScript**.
 
 🤝 **Collaboration:**  
-Looking to collaborate so I can improve my Minecraft server scanner.
+Not rn.
 
 🤔 **Seeking Help:**  
-Seeking Help for my Minecraft server scanner.
+Not rn.
 
 💬 **Feel Free to Ask:**  
 I'm open to questions about anything!
@@ -22,7 +22,7 @@ You can reach me at [brynleyportillo1@gmail.com](mailto:brynleyportillo1@gmail.c
 He/Him.
 
 ⚡ **Fun Fact:**  
-I'm really pretty at coding!
+I'm pretty good at coding!
 
 ---
 
