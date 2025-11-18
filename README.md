@@ -33,7 +33,3 @@ I'm pretty good at coding!
 ### Top Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=atelloblue&layout=compact)
-
-### Featured Projects:
-
-[![Windows 12 Concept](https://github-readme-stats.vercel.app/api/pin/?theme=dark&username=ZalithLauncher&repo=ZalithWebsite)](https://github.com/ZalithLauncher/ZalithWebsite)
