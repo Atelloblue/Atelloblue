@@ -1,17 +1,5 @@
 ## Hi there! 👋
 
-💻 **Current Projects:**  
-- Developing a **VNC Setup Script**  
-
-🌱 **Learning Journey:**  
-Currently learning **JavaScript**.
-
-🤝 **Collaboration:**  
-Not rn.
-
-🤔 **Seeking Help:**  
-Not rn.
-
 💬 **Feel Free to Ask:**  
 I'm open to questions about anything!
 
